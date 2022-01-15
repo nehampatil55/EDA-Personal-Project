@@ -1,4 +1,4 @@
-# EDA-Personal-Project
+# EDA-Final-Project
 Disney+ Movies and TV show data Aalysis
 
 **Movies and TV Shows listings on Disney+  Dataset**
